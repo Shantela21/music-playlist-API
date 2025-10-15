@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Shantela21/music-playlist-API/issues"
   },
-  "homepage": "https://github.com/Shantela21/music-playlist-API#readme"
+  "homepage": "https://github.com/Shantela21/music-playlist-API#readme",
+  "dependencies": {
+    "@types/node": "^24.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
 }
